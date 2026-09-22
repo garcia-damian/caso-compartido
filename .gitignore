@@ -6,6 +6,7 @@ Thumbs.db
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 .obsidian/cache
+.obsidian/
 
 # Claude: configuración local de cada máquina
 .claude/settings.local.json
