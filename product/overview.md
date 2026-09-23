@@ -23,9 +23,11 @@ Organizaciones que usan Microsoft 365. Quien compra y quien usa no son la misma 
 Ordenadas por impacto × incertidumbre. La primera es la próxima a atacar.
 
 1. [product] [value] Si IT les dejara elegir, la mayoría de los empleados no usaría Teams para coordinar con su equipo. Hoy ya usan canales paralelos (WhatsApp, mail, Zoom/Meet) para lo que les importa.
-2. [product] [value] Quienes convocan y conducen reuniones (Team Leads y mandos medios) le sacan más valor a Teams que quienes solo participan. Si Teams desapareciera, serían los que más lo extrañarían.
+2. [opportunity: colaboracion-fuera-de-teams] [value] En cuentas Premium grandes de tecnología distribuida, quien convoca saca el trabajo en vivo fuera de Teams porque decidir en el momento y dejar registro que encuentre quien no estuvo le cuesta más ahí que en el canal paralelo. Se cae si la razón dominante resulta ser el hábito del equipo o el acceso de gente de afuera.
+3. [opportunity: colaboracion-fuera-de-teams] [viability] IT de esas cuentas sube a Max cuando puede demostrar ante finanzas que la coordinación volvió adentro y que baja el shadow IT. Se cae si IT declara que el upgrade se decide por precio, bundle o negociación, sin relación con el uso.
+4. [product] [value] Quienes convocan y conducen reuniones (Team Leads y mandos medios) le sacan más valor a Teams que quienes solo participan. Si Teams desapareciera, serían los que más lo extrañarían.
 
 ## Preguntas abiertas
 
 - ¿Por qué IT deja de renovar? Sin creencia formada. Habría que hablar con IT de cuentas que se fueron.
-- ¿Por qué IT paga Teams y qué haría que valga lo que cuesta? Sin creencia formada, así que el riesgo de viabilidad queda sin cubrir.
+- ¿Por qué IT paga Teams y qué haría que valga lo que cuesta? Parcialmente cubierta por la creencia #3, acotada al segmento de la oportunidad `colaboracion-fuera-de-teams`. Fuera de ese segmento sigue abierta.
