@@ -6,7 +6,7 @@
 - **Type:** primary
 - **Rango de edad:** 45–54
 - **Ubicación:** São Paulo, Brasil, con trabajo híbrido (2 días en oficina). Su equipo está en Brasil, Chile, Perú y México; atiende clientes en 6 países
-- **Industria:** software de gestión para cadenas de retail. Empresa de unas 650 licencias de Microsoft 365 Business Premium y facturación de unos USD 180M anuales
+- **Industria:** software de gestión para cadenas de retail. Empresa de unas 280 licencias de Microsoft 365 Business Premium y facturación de unos USD 180M anuales
 - **Alfabetización técnica:** media
 - **Nivel de experiencia:** experta en su rol (20 años en atención a clientes corporativos), intermedia con Teams
 

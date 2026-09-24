@@ -1,7 +1,7 @@
 ---
 opportunity: colaboracion-fuera-de-teams
 research: product/research/2026-09-23-1508-colaboracion-fuera-de-teams.md
-personas: lucia-ferreyra, raul-mendez
+personas: andres-quintero, patricia-oliveira
 status: draft
 ---
 
@@ -12,7 +12,7 @@ status: draft
   2. **Cuánto pesa el problema**: en cuántos canales se coordina, con qué frecuencia una decisión sale de Teams, qué le pasa a quien no estuvo, cuántas horas se van en rearmar minutas. Decide: prioridad de la oportunidad frente a las demás.
   3. **Si usar las funciones de registro con IA (recap de Teams Premium, Copilot/Facilitator) cambia la migración**, es decir, si la fricción A es de empaquetado. Decide: a qué tier apuntar cualquier solución, e insumo para la creencia #3.
   4. **Reclutar entrevistados** para `/design-interview`, priorizando a quienes contradicen la creencia #2.
-- **Respondentes:** Team Leads y mandos medios que convocan 3+ reuniones por semana, en empresas de tecnología de 100+ personas con operación en 3+ países, que usan Microsoft Teams provisto por la empresa. Persona de referencia: Lucía Ferreyra (rol correcto, firmografía distinta: por eso el filtro es por firmografía, no por parecido a ella).
+- **Respondentes:** Team Leads y mandos medios que convocan 3+ reuniones por semana, en empresas de tecnología de 100+ personas con operación en 3+ países, que usan Microsoft Teams provisto por la empresa. Personas de referencia: Andrés Quintero y Patricia Oliveira, que tienen el rol y la firmografía del segmento. El filtro igual es por firmografía, no por parecido a ellos.
 - **Largo estimado:** 4 de filtro + 11 preguntas + 3 de reclutamiento, ~5 minutos.
 - **Idioma:** español. Si el panel entrega respondentes fuera de LatAm/España, traducir antes de publicar ese link.
 
@@ -91,7 +91,7 @@ Q7. De las reuniones que convocaste en las últimas 2 semanas, ¿cuántas incluy
 
 Q8. En la última semana, ¿cuánto tiempo en total dedicaste, después de tus reuniones, a pasar en limpio lo decidido y mandar los pendientes? [opción única]
    - Nada · Menos de 30 min · 30 min a 1 h · 1 a 2 h · 2 a 4 h · Más de 4 h
-   > Objetivo: 2 (horas perdidas; la señal sintética de Lucía es ~4 h)
+   > Objetivo: 2 (horas perdidas; las señales sintéticas son ~3 h de Andrés y ~4 h de Lucía)
 
 Q9. ¿Cuáles de estas funciones usaste en tus reuniones de Teams en el último mes? [opción múltiple]
    - Resumen de la reunión generado por IA (recap inteligente)
