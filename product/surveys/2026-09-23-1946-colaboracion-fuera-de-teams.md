@@ -2,7 +2,7 @@
 opportunity: colaboracion-fuera-de-teams
 research: product/research/2026-09-23-1508-colaboracion-fuera-de-teams.md
 personas: andres-quintero, patricia-oliveira
-status: draft
+status: voided
 ---
 
 # Encuesta: decisiones de equipo que se toman fuera de Teams
