@@ -24,13 +24,17 @@ Ordenadas por impacto × incertidumbre. La primera es la próxima a atacar.
 
 1. [product] [value] Si IT les dejara elegir, la mayoría de los empleados no usaría Teams para coordinar con su equipo. Hoy ya usan canales paralelos (WhatsApp, mail, Zoom/Meet) para lo que les importa.
    — weakened by product/insights/2026-09-30-1630-entrevistas-colaboracion-en-vivo.md (2026-09-30)
-2. [opportunity: colaboracion-fuera-de-teams] [value] En cuentas Premium grandes de tecnología distribuida, quien convoca saca el trabajo en vivo fuera de Teams porque decidir en el momento y dejar registro que encuentre quien no estuvo le cuesta más ahí que en el canal paralelo. Se cae si la razón dominante resulta ser el hábito del equipo o el acceso de gente de afuera.
+2. [opportunity: decisiones-no-llegan-a-ejecucion] [viability] IT del segmento usa "las decisiones de reunión llegan a ejecutarse" como argumento ante finanzas para justificar Max. Se cae si IT declara que el tier se decide por precio, bundle, negociación o seguridad, sin que eso pese.
+3. [opportunity: decisiones-no-llegan-a-ejecucion] [value] En el segmento, en al menos 1 de cada 4 reuniones de trabajo con decisiones, alguna se ejecuta distinto de lo decidido o no se ejecuta porque el responsable, la fecha o el porqué quedaron ambiguos, y el conductor dedica 10 min o más por reunión a cerrarlas a mano. Se cae si una medición en el segmento da menos que eso.
+4. [product] [value] Quienes convocan y conducen reuniones (Team Leads y mandos medios) le sacan más valor a Teams que quienes solo participan. Si Teams desapareciera, serían los que más lo extrañarían.
+5. [opportunity: colaboracion-fuera-de-teams] [value] En cuentas Premium grandes de tecnología distribuida, quien convoca saca el trabajo en vivo fuera de Teams porque decidir en el momento y dejar registro que encuentre quien no estuvo le cuesta más ahí que en el canal paralelo. Se cae si la razón dominante resulta ser el hábito del equipo o el acceso de gente de afuera.
    — weakened by product/insights/2026-09-30-1621-colaboracion-en-vivo-fuera-de-teams.md (2026-09-30)
    — weakened by product/insights/2026-09-30-1630-entrevistas-colaboracion-en-vivo.md (2026-09-30)
-3. [opportunity: colaboracion-fuera-de-teams] [viability] IT de esas cuentas sube a Max cuando puede demostrar ante finanzas que la coordinación volvió adentro y que baja el shadow IT. Se cae si IT declara que el upgrade se decide por precio, bundle o negociación, sin relación con el uso.
-4. [product] [value] Quienes convocan y conducen reuniones (Team Leads y mandos medios) le sacan más valor a Teams que quienes solo participan. Si Teams desapareciera, serían los que más lo extrañarían.
+   — discarded with opportunity colaboracion-fuera-de-teams (2026-10-06)
+6. [opportunity: colaboracion-fuera-de-teams] [viability] IT de esas cuentas sube a Max cuando puede demostrar ante finanzas que la coordinación volvió adentro y que baja el shadow IT. Se cae si IT declara que el upgrade se decide por precio, bundle o negociación, sin relación con el uso.
+   — discarded with opportunity colaboracion-fuera-de-teams (2026-10-06)
 
 ## Preguntas abiertas
 
 - ¿Por qué IT deja de renovar? Sin creencia formada. Habría que hablar con IT de cuentas que se fueron.
-- ¿Por qué IT paga Teams y qué haría que valga lo que cuesta? Parcialmente cubierta por la creencia #3, acotada al segmento de la oportunidad `colaboracion-fuera-de-teams`. Fuera de ese segmento sigue abierta.
+- ¿Por qué IT paga Teams y qué haría que valga lo que cuesta? Parcialmente cubierta por la creencia #2, acotada al segmento de la oportunidad `decisiones-no-llegan-a-ejecucion`. Fuera de ese segmento sigue abierta.

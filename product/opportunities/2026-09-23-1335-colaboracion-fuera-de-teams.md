@@ -1,5 +1,5 @@
 ---
-status: framed
+status: discarded
 segment: Cuentas Business Premium, 100+ licencias, sector tecnología, operación en 3+ países, facturación >USD 100M anuales. 12.400 cuentas y 2,1 millones de licencias. Equipos distribuidos, trabajo remoto o híbrido. Dentro de la cuenta, el rol afectado es quien convoca y conduce reuniones: Team Leads y mandos medios.
 personas: lucia-ferreyra, raul-mendez, martin-sosa, sofia-paz
 ---
@@ -83,3 +83,9 @@ Las dos explicaciones alternativas de por qué migra la colaboración quedan ano
 - Entrada de externos en un click.
 
 Ninguna evaluada. Están ahí para no perderlas, no para elegir.
+
+## Por qué se descartó (2026-10-06)
+
+El dolor del cierre no depende de dónde se trabaje. 10 de 10 entrevistados (`real`, `product/insights/2026-09-30-1630-entrevistas-colaboracion-en-vivo.md`) cuentan una decisión que no llegó intacta a quien la ejecutaba, y pasa igual en Teams, Miro, Jira o Confluence. En la encuesta, "registro y continuidad" es el tema nº 1 (35% de las abiertas, O3 de `product/insights/2026-09-30-1621-colaboracion-en-vivo-fuera-de-teams.md`). Lo que sale de Teams es, sobre todo, trabajo que ya vivía afuera (74% de los artefactos sin pizarra). La causa que planteaba este brief ("se va de Teams porque cerrar ahí cuesta más") no explica el dolor.
+
+Reemplazada por `product/opportunities/2026-10-06-1254-decisiones-no-llegan-a-ejecucion.md`.
