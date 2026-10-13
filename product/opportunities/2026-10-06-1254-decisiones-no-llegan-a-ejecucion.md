@@ -76,9 +76,9 @@ Discovery tiene que cerrar alrededor de la semana 6 (mediados de noviembre) para
 
 Surgieron de la exploración hecha sobre la oportunidad anterior (2026-10-06, sin guardar). Acá quedan sin evaluar, para competir en `/explore-solutions`.
 
-- Tarjeta de cierre con decisión, responsable, fecha y porqué, armada por IA y confirmada por el conductor antes de cortar, publicada donde se ejecuta.
-- Ritual de cierre de 5 minutos con plantilla de Loop fijada en el canal, sin software nuevo.
-- Recap de IA que separe lo decidido de lo conversado y marque lo dudoso.
-- Notas y pizarra ancladas a la serie o al canal, con historial entre sesiones.
-- Recoger la posición de quien no habló antes de cerrar.
-- Notas en vivo que dejen decisiones y responsables asentados solos (heredada del brief anterior).
+- Tarjeta de cierre con decisión, responsable, fecha y porqué, armada por IA y confirmada por el conductor antes de cortar, publicada donde se ejecuta. → **chosen (en test, A1 `tarjeta-de-cierre`)**, ver [2026-10-06-2019-decisiones-no-llegan-a-ejecucion.md](../solutions/2026-10-06-2019-decisiones-no-llegan-a-ejecucion.md)
+- Ritual de cierre de 5 minutos con plantilla de Loop fijada en el canal, sin software nuevo. → **discarded (A2: el ritual sin herramienta ya falla)**, ver [2026-10-06-2019-decisiones-no-llegan-a-ejecucion.md](../solutions/2026-10-06-2019-decisiones-no-llegan-a-ejecucion.md)
+- Recap de IA que separe lo decidido de lo conversado y marque lo dudoso. → **chosen (en test, A3 `recap-de-decisiones`)**, ver [2026-10-06-2019-decisiones-no-llegan-a-ejecucion.md](../solutions/2026-10-06-2019-decisiones-no-llegan-a-ejecucion.md)
+- Notas y pizarra ancladas a la serie o al canal, con historial entre sesiones. → **parked (A4: ataca la minoría de los casos)**, ver [2026-10-06-2019-decisiones-no-llegan-a-ejecucion.md](../solutions/2026-10-06-2019-decisiones-no-llegan-a-ejecucion.md)
+- Recoger la posición de quien no habló antes de cerrar. → **parked (ataca la legitimidad de la decisión, no la ejecución)**, ver [2026-10-06-2019-decisiones-no-llegan-a-ejecucion.md](../solutions/2026-10-06-2019-decisiones-no-llegan-a-ejecucion.md)
+- Notas en vivo que dejen decisiones y responsables asentados solos (heredada del brief anterior). → **discarded (fusionada en A1: sin confirmación, la IA inventa decisiones)**, ver [2026-10-06-2019-decisiones-no-llegan-a-ejecucion.md](../solutions/2026-10-06-2019-decisiones-no-llegan-a-ejecucion.md)

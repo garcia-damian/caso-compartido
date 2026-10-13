@@ -33,6 +33,12 @@ Ordenadas por impacto × incertidumbre. La primera es la próxima a atacar.
    — discarded with opportunity colaboracion-fuera-de-teams (2026-10-06)
 6. [opportunity: colaboracion-fuera-de-teams] [viability] IT de esas cuentas sube a Max cuando puede demostrar ante finanzas que la coordinación volvió adentro y que baja el shadow IT. Se cae si IT declara que el upgrade se decide por precio, bundle o negociación, sin relación con el uso.
    — discarded with opportunity colaboracion-fuera-de-teams (2026-10-06)
+7. [feature: tarjeta-de-cierre] [value] Con un borrador armado a partir de la transcripción, el conductor confirma la tarjeta frente al grupo en ≤ 3 min en al menos 7 de cada 10 reuniones con decisiones, y no vuelve a cerrar a mano después. Se cae si la confirmación supera los 3 min o se saltea en más de 3 de cada 10 reuniones.
+   — proposed by product/solutions/2026-10-06-2019-decisiones-no-llegan-a-ejecucion.md (2026-10-06)
+8. [feature: tarjeta-de-cierre] [value] Confirmar en vivo deja menos decisiones ejecutadas distinto o no ejecutadas a las 2 semanas que el recap estructurado posterior. Se cae si la tasa no es menor que con recap-de-decisiones.
+   — proposed by product/solutions/2026-10-06-2019-decisiones-no-llegan-a-ejecucion.md (2026-10-06)
+9. [feature: recap-de-decisiones] [value] Un recap que ordena decisión, responsable, fecha y porqué, y marca lo dudoso, deja la revisión del conductor en < 5 min y no hace llegar a ejecución ninguna decisión inventada. Se cae si la revisión supera los 5 min o si alguna decisión inventada se ejecuta.
+   — proposed by product/solutions/2026-10-06-2019-decisiones-no-llegan-a-ejecucion.md (2026-10-06)
 
 ## Preguntas abiertas
 
