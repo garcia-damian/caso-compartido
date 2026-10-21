@@ -39,6 +39,14 @@ Ordenadas por impacto × incertidumbre. La primera es la próxima a atacar.
    — proposed by product/solutions/2026-10-06-2019-decisiones-no-llegan-a-ejecucion.md (2026-10-06)
 9. [feature: recap-de-decisiones] [value] Un recap que ordena decisión, responsable, fecha y porqué, y marca lo dudoso, deja la revisión del conductor en < 5 min y no hace llegar a ejecución ninguna decisión inventada. Se cae si la revisión supera los 5 min o si alguna decisión inventada se ejecuta.
    — proposed by product/solutions/2026-10-06-2019-decisiones-no-llegan-a-ejecucion.md (2026-10-06)
+10. [feature: tarjeta-de-cierre] [feasibility] De la transcripción se puede extraer en vivo cada decisión con responsable, fecha y porqué, y tener el borrador listo a 5 min del final, sin marcar como decisión una idea en más de 1 de cada 10 ítems. Se cae si el borrador llega tarde o mezcla ideas con decisiones por encima de eso.
+   — proposed by product/specs/2026-10-13-2115-tarjeta-de-cierre.md (2026-10-13)
+11. [feature: tarjeta-de-cierre] [feasibility] Desde una reunión de Teams en Business Premium se puede publicar en Planner, Jira y el canal con responsable y fecha asignados. Se cae si alguno de los tres destinos no admite asignación desde la reunión.
+   — proposed by product/specs/2026-10-13-2115-tarjeta-de-cierre.md (2026-10-13)
+12. [feature: tarjeta-de-cierre] [usability] El conductor comparte la tarjeta y corrige un campo con el grupo sin ayuda ni explicación previa. Se cae si en una prueba de uso más de 1 de cada 5 conductores no logra compartir y corregir sin ayuda.
+   — proposed by product/specs/2026-10-13-2115-tarjeta-de-cierre.md (2026-10-13)
+13. [feature: tarjeta-de-cierre] [viability] La tarjeta funciona con lo que trae Max (Copilot o Teams Premium) y no exige licencia para los participantes; si Facilitator sigue sin funcionar con externos, la tarjeta sirve igual para reuniones con externos. Se cae si exige licencia por participante o deja afuera las reuniones con externos.
+   — proposed by product/specs/2026-10-13-2115-tarjeta-de-cierre.md (2026-10-13)
 
 ## Preguntas abiertas
 
